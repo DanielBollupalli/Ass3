@@ -14,7 +14,6 @@
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3"
   },
-<<<<<<< HEAD
   "browserslist": {
     "production": [
       ">0.2%",
@@ -31,7 +30,5 @@
     "eslint": "^8.57.1",
     "eslint-plugin-react": "^7.37.4"
   }
-=======
   "devDependencies": {}
->>>>>>> c6b1019a2be6c336468c23e39be89742848a81fd
 }
